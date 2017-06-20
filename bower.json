@@ -1,0 +1,19 @@
+{
+  "name": "l2clan",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-resource": "~1.6.4",
+    "angular-cookies": "~1.6.4",
+    "angular-sanitize": "~1.6.4",
+    "angular-touch": "~1.6.4",
+    "angular-route": "~1.6.4",
+    "angular-motion": "~0.4.4",
+    "angular-ui-router": "^1.0.4",
+    "angular-toastr": "^2.1.1",
+    "angular-bootstrap": "^2.5.0",
+    "angular-bootstrap-calendar": "^0.29.2",
+    "angular-loading-bar": "^0.9.0"
+  },
+  "appPath": "app"
+}

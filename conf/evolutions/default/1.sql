@@ -5,6 +5,9 @@
 
 create table usuario (
   id                            bigint auto_increment not null,
+  nome                          varchar(255),
+  email                         varchar(255),
+  senha                         varchar(255),
   constraint pk_usuario primary key (id)
 );
 
